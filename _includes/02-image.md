@@ -1,1 +1,1 @@
-_includes/02-image.md
+![an image](_includes/02-image.md)
